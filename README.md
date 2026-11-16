@@ -123,64 +123,6 @@ javac -d out src/*.java
 java -cp out Main
 ```
 
-## 👥 Colaboração e desenvolvimento
-
-O projeto é desenvolvido em equipe, utilizando práticas de versionamento para organizar as contribuições e manter a integridade do código.
-
-### Fluxo de contribuição
-
-1. Atualize sua versão local com a branch principal.
-2. Crie uma branch específica para sua tarefa.
-3. Desenvolva e teste sua implementação.
-4. Registre suas alterações utilizando commits descritivos.
-5. Envie sua branch para o GitHub.
-6. Abra um Pull Request para revisão.
-7. Após a aprovação, integre as alterações à branch principal.
-
-### Padrão de nomenclatura das branches
-
-```text
-feature/nome-da-funcionalidade
-fix/correcao-realizada
-refactor/melhoria-do-codigo
-docs/atualizacao-documentacao
-```
-
-### Padrão de commits
-
-Utilizamos mensagens de commit claras e objetivas.
-
-Exemplos:
-
-```text
-feat: implementa cadastro de passageiros
-feat: adiciona solicitação de corridas
-fix: corrige validação de disponibilidade
-refactor: reorganiza classe Motorista
-docs: atualiza documentação do projeto
-```
-
-### Pull Requests
-
-Toda nova funcionalidade ou correção deve ser enviada por meio de um Pull Request.
-
-Antes de solicitar a integração, verifique:
-
-- [ ] O código foi implementado e testado.
-- [ ] As alterações não comprometem funcionalidades existentes.
-- [ ] Os nomes das classes, métodos e atributos seguem um padrão.
-- [ ] Não foram enviados arquivos compilados ou configurações pessoais da IDE.
-- [ ] A descrição do Pull Request explica o que foi desenvolvido.
-
-## 📋 Organização das atividades
-
-As tarefas, melhorias e correções serão organizadas por meio do GitHub Issues e acompanhadas pela equipe.
-
-Cada atividade deverá apresentar:
-- Descrição do problema ou funcionalidade.
-- Responsável pelo desenvolvimento.
-- Critérios de conclusão.
-- Status de andamento.
 
 ## 👨‍💻 Equipe de desenvolvimento
 
